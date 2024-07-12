@@ -18,5 +18,5 @@ elif user_unit_input == "F":
 
     print(f"The temperature in Celsius is: {converted_temperature:.2f}")
 else:
-    # Step 7a: Print an error message indicating an invalid unit
+    # Step 5a: Print an error message indicating an invalid unit
     print("Invalid unit. Please enter 'C' for Celsius or 'F' for Fahrenheit.")
